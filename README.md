@@ -48,7 +48,7 @@ Pharos Testnet BOT is an automated tool designed to streamline process multiple 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vonssy/PharosTestnet-BOT.git
+git clone https://github.com/user2001230258/PharosTestnet-BOT.git
 cd PharosTestnet-BOT
 ```
 
@@ -187,5 +187,6 @@ We welcome contributions from the community! Here's how you can help:
 **Made with ❤️ by [vonssy](https://github.com/vonssy)**
 
 *Thank you for using Pharos Testnet BOT! Don't forget to ⭐ star this repository.*
+
 
 </div>
